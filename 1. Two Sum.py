@@ -1,3 +1,6 @@
+#Solution for https://leetcode.com/problems/two-sum/
+#By Jamie Armoordon
+
 class Solution(object):
     def twoSum(self, nums, target):
         prev_map =  {}
